@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/freshman-tech/news-demo-starter-files/news"
+	"https://github.com/Freshman-tech/news-demo/tree/master/news"
 	"github.com/joho/godotenv"
 )
 
